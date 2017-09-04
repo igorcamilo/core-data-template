@@ -51,6 +51,7 @@
 		4BB32D8A1F5DFEFE000956B4 /* CoreDataTemplateUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoreDataTemplateUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BB32D8E1F5DFEFE000956B4 /* CoreDataTemplateUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataTemplateUITests.swift; sourceTree = "<group>"; };
 		4BB32D901F5DFEFE000956B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4BB32D9C1F5E02AB000956B4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 		4BB32D5D1F5DFEFD000956B4 = {
 			isa = PBXGroup;
 			children = (
+				4BB32D9C1F5E02AB000956B4 /* README.md */,
 				4BB32D681F5DFEFD000956B4 /* CoreDataTemplate */,
 				4BB32D821F5DFEFE000956B4 /* CoreDataTemplateTests */,
 				4BB32D8D1F5DFEFE000956B4 /* CoreDataTemplateUITests */,
