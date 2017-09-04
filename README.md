@@ -1,3 +1,3 @@
 # CoreDataTemplate
 
-Xcode 8.3.3 (8E3004b)
+Xcode 9.0 beta 6 (9M214v)
